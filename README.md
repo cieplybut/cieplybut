@@ -1,2 +1,2 @@
-👋 Hi, I’m @cieplybut
-🔧 Autohotkey beginner, discord.js beginner
+- 👋 Hi, I’m @cieplybut
+- 🔧 Autohotkey beginner, discord.js beginner
